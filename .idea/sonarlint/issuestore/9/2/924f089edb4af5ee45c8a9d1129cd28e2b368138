@@ -1,0 +1,25 @@
+
+Q
+java:S1128"4Remove this unused import 'org.w3c.dom.ls.LSOutput'.(Ò½¾Š8Ş›¼é­.
+O
+java:S1481+"-Remove this unused "allMatch" local variable.(Ï—ïıÿÿÿÿ8º£¥é­.
+X	java:S125"<This block of commented-out lines of code should be removed.(ÄÄ°™8ûÖßè­.
+O
+java:S14811"-Remove this unused "anyMatch" local variable.(âú…˜üÿÿÿÿ8—Ë¬é­.
+X	java:S125@"<This block of commented-out lines of code should be removed.(ôÍìİ8†ÇÊé­.
+]	java:S125<"<This block of commented-out lines of code should be removed.(İÊÓ“şÿÿÿÿ8îßÅé­.
+X	java:S125"<This block of commented-out lines of code should be removed.(’ç¸ß8ÆÌİè­.
+X	java:S1254"<This block of commented-out lines of code should be removed.(ÅøÖ«8—Ë¬é­.
+X	java:S125H"<This block of commented-out lines of code should be removed.(¸®Ï8¯Ñ˜ê­.
+H
+java:S1481",Remove this unused "females" local variable.(ú¤™8Ğáóè­.
+M
+java:S1481$"+Remove this unused "sorted" local variable.(ÎòÅòøÿÿÿÿ8÷Â“é­.
+O
+java:S1481E"2Remove this unused "groupByGender" local variable.(ºÄÅ8¯Ñ˜ê­.
+]	java:S125("<This block of commented-out lines of code should be removed.(åŸÎùÿÿÿÿ8÷Â“é­.
+X	java:S125""<This block of commented-out lines of code should be removed.(²ŠÑØ8Ğáóè­.
+X	java:S125."<This block of commented-out lines of code should be removed.(ı©Ôú8º£¥é­.
+J
+java:S14818".Remove this unused "noneMatch" local variable.(ØÁ®y8îßÅé­.
+X	java:S125C"<This block of commented-out lines of code should be removed.(ôÍìİ8²’ê­.
